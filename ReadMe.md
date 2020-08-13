@@ -1,6 +1,6 @@
 ### Hi there, I'm Vova
 
-## I'm a Developer and Podcaster
+## I'm a Android Developer and Podcaster
 :microphone: - I'm currentry working on a [Android Story podcast][website]
 
 ### Connect with me:
