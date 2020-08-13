@@ -9,6 +9,10 @@
 - [Instagram][instagram]
 - [Linkedin][linkedin]
 
+# Medium
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
 <br />
 <br />
 
