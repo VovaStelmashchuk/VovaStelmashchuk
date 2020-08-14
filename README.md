@@ -11,6 +11,11 @@
 
 # Android Story podcast
 <!-- BLOG-POST-LIST:START -->
+- [AS-10: Пишем хороший код с SOLID, DRY, KISS, YAGNI и CQS](https://www.androidstory.dev/2020/08/as-10-solid-dry-kiss-yagni-cqs.html)
+- [AS-9: Навигация в Discord и мультимодульность в Android приложениях](https://www.androidstory.dev/2020/08/as-9-discord-android.html)
+- [AS-8: Тестирование с Mockk и Server Driven UI](https://www.androidstory.dev/2020/07/as-8-mockk-server-driven-ui.html)
+- [AS-7: GoodReadMeApp by Vova, Inheritance vs Composition на уровне Activity, Jetpack Compose Preview](https://www.androidstory.dev/2020/07/as-7-goodreadmeapp-by-vova-inheritance.html)
+- [AS-6: Этот дивный новый Kotlin и чудной SQLite](https://www.androidstory.dev/2020/07/as-6-kotlin-sqlite.html)
 <!-- BLOG-POST-LIST:END -->
 
 # Medium
