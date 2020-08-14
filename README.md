@@ -29,3 +29,7 @@
 [twitter]: https://twitter.com/jordan29041997
 [instagram]: https://instagram.com/volodymyrstelmaschuk
 [linkedin]: https://www.linkedin.com/in/volodymyr-stelmashchuk-2631b9118/
+
+# GitHub activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
