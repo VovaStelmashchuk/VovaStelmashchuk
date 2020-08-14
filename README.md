@@ -16,6 +16,11 @@
 - [AS-8: Тестирование с Mockk и Server Driven UI](https://www.androidstory.dev/2020/07/as-8-mockk-server-driven-ui.html)
 - [AS-7: GoodReadMeApp by Vova, Inheritance vs Composition на уровне Activity, Jetpack Compose Preview](https://www.androidstory.dev/2020/07/as-7-goodreadmeapp-by-vova-inheritance.html)
 - [AS-6: Этот дивный новый Kotlin и чудной SQLite](https://www.androidstory.dev/2020/07/as-6-kotlin-sqlite.html)
+- [AS-5: Design Patterns в Android и App Startup](https://www.androidstory.dev/2020/07/AS-5.html)
+- [AS-4: Ktor на стороне Android?! И как приодеть ваш Dagger2 под 2020й год.](https://www.androidstory.dev/2020/06/as-4.html)
+- [AS-3 Android 11 и новый способ работы с GraphQL в Kotlin](https://www.androidstory.dev/2020/06/android-11-graphql-kotlin.html)
+- [AS-2: Duolingo уже на Kotlin, мы на Android Studio 4, а вы где?](https://www.androidstory.dev/2020/06/as-2-duolingo-kotlin-android-studio-4.html)
+- [AS-1: Snapchat переписали, а диалоги в VK работают интересно](https://www.androidstory.dev/2020/05/as-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 # Medium
