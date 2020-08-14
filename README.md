@@ -10,8 +10,8 @@
 - [Linkedin][linkedin]
 
 # Android Story podcast
-<!-- ANDROID_STORY:START -->
-<!-- ANDROID_STORY:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 # Medium
 <!-- MEDIUM:START -->
