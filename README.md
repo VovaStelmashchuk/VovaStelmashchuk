@@ -22,11 +22,6 @@
 - [How to set up a personal VPN tunnel in 5 min](https://medium.com/@vovochkastelmashchuk/how-set-up-personal-vpn-tunnel-for-5-min-f8f05b80be2a?source=rss-cec3e8e0d4be------2)
 <!-- MEDIUM:END -->
 
-
-# GitHub activity
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <br />
 <br />
 
