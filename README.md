@@ -1,7 +1,11 @@
 ### Hi there, I'm Vova
 
 ## I'm a Android Developer, Podcaster and write article time to time.
-- I'm currentry working on a :microphone: - [Android Story podcast][website] and :bomb: - [My own github organization][goodreadMe]
+- I'm currentry working on :
+ - [Android Story podcast][website] 
+ - [GoodReadMeBot][goodreadMe]
+ - [Android sdk for Remark42](https://github.com/VovaStelmashchuk/RemarkAndroidSdk)
+ - Learning jetbrains source codes
 - Author of Android X module and member in [Moxy][moxy]
 - Author of [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
 - Contributor in the following project:
@@ -13,6 +17,10 @@
   - [RxJava](https://github.com/ReactiveX/RxJava)
   - [Binaryprefs](https://github.com/yandextaxitech/binaryprefs)
   - [DIO](https://github.com/flutterchina/dio)
+- Not developer life:
+  - 3D modeling
+  - Creating a stuff from wood by myself
+  - Visiting the music festivals
 
 ### Connect with me:
 - Email: vovochkastelmashchuk@gmail.com
