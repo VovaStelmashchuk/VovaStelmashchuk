@@ -2,12 +2,13 @@
 
 ## I'm a Android Developer, Podcaster and write article time to time.
 - I'm currentry working on :
- - [Android Story podcast][website] 
- - [GoodReadMeBot][goodreadMe]
- - [Android sdk for Remark42](https://github.com/VovaStelmashchuk/RemarkAndroidSdk)
- - Learning jetbrains source codes
-- Author of Android X module and member in [Moxy][moxy]
-- Author of [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
+  - [Android Story podcast][website] 
+  - [GoodReadMeBot][goodreadMe]
+  - [Android sdk for Remark42](https://github.com/VovaStelmashchuk/RemarkAndroidSdk)
+  - Learning jetbrains source codes
+- Author of the following:
+  - [Moxy][moxy] Android X module
+  - [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
 - Contributor in the following project:
   - [Detekt](https://github.com/detekt/detekt)
   - [Idea openscad](https://github.com/ncsaba/idea-openscad)
