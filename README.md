@@ -1,7 +1,18 @@
 ### Hi there, I'm Vova
 
 ## I'm a Android Developer, Podcaster and write article time to time.
-:microphone: - I'm currentry working on a [Android Story podcast][website]
+- I'm currentry working on a :microphone: - [Android Story podcast][website] and :bomb: - [My own github organization][goodreadMe]
+- Author of Android X module and member in [Moxy][moxy]
+- Author of [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
+- Contributor in the following repository:
+  - [Detekt](https://github.com/detekt/detekt)
+  - [Idea openscad](https://github.com/ncsaba/idea-openscad)
+  - [ADB idea](https://github.com/pbreault/adb-idea)
+- Fake contributor(just write the docs or other small changes) in the following repository:
+  - [mockk-guidebook](https://github.com/NotWoods/mockk-guidebook)
+  - [RxJava](https://github.com/ReactiveX/RxJava)
+  - [Binaryprefs](https://github.com/yandextaxitech/binaryprefs)
+  - [DIO](https://github.com/flutterchina/dio)
 
 ### Connect with me:
 - Email: vovochkastelmashchuk@gmail.com
@@ -35,6 +46,8 @@
 <br />
 <br />
 
+[moxy]: https://github.com/moxy-community/Moxy
+[goodreadMe]: https://github.com/GoodReadMe
 [website]: https://androidstory.dev
 [twitter]: https://twitter.com/jordan29041997
 [instagram]: https://instagram.com/volodymyrstelmaschuk
