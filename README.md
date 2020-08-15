@@ -9,7 +9,7 @@
 - [Instagram][instagram]
 - [Linkedin][linkedin]
 
-:microphone: # Android Story podcast
+# Android Story podcast :microphone: 
 <!-- BLOG-POST-LIST:START -->
 - [AS-10: Пишем хороший код с SOLID, DRY, KISS, YAGNI и CQS](https://www.androidstory.dev/2020/08/as-10-solid-dry-kiss-yagni-cqs.html)
 - [AS-9: Навигация в Discord и мультимодульность в Android приложениях](https://www.androidstory.dev/2020/08/as-9-discord-android.html)
@@ -23,7 +23,7 @@
 - [AS-1: Snapchat переписали, а диалоги в VK работают интересно](https://www.androidstory.dev/2020/05/as-1.html)
 <!-- BLOG-POST-LIST:END -->
 
-:memo: # Medium
+# Medium :memo: 
 <!-- MEDIUM:START -->
 - [Don’t think about rotation of the screen. Moxy fix the problem.](https://itnext.io/dont-think-about-rotation-of-the-screen-moxy-fix-the-problem-e861d52a0d12?source=rss-cec3e8e0d4be------2)
 - [3 simple reasons why you need to use Firefox  ](https://medium.com/@vovochkastelmashchuk/3-simple-reasons-why-you-need-to-use-firefox-2c5f97d0dc82?source=rss-cec3e8e0d4be------2)
