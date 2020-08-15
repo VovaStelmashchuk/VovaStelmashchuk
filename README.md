@@ -4,11 +4,11 @@
 - I'm currentry working on a :microphone: - [Android Story podcast][website] and :bomb: - [My own github organization][goodreadMe]
 - Author of Android X module and member in [Moxy][moxy]
 - Author of [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
-- Contributor in the following repository:
+- Contributor in the following project:
   - [Detekt](https://github.com/detekt/detekt)
   - [Idea openscad](https://github.com/ncsaba/idea-openscad)
   - [ADB idea](https://github.com/pbreault/adb-idea)
-- Fake contributor(just write the docs or other small changes) in the following repository:
+- Fake contributor(just write the docs or other small changes):
   - [mockk-guidebook](https://github.com/NotWoods/mockk-guidebook)
   - [RxJava](https://github.com/ReactiveX/RxJava)
   - [Binaryprefs](https://github.com/yandextaxitech/binaryprefs)
