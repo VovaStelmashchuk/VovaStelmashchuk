@@ -31,6 +31,7 @@
 
 # Android Story podcast :microphone: 
 <!-- BLOG-POST-LIST:START -->
+- [AS-11: Clean architecture](https://www.androidstory.dev/2020/08/as-11-clean-architecture.html)
 - [AS-10: Пишем хороший код с SOLID, DRY, KISS, YAGNI и CQS](https://www.androidstory.dev/2020/08/as-10-solid-dry-kiss-yagni-cqs.html)
 - [AS-9: Навигация в Discord и мультимодульность в Android приложениях](https://www.androidstory.dev/2020/08/as-9-discord-android.html)
 - [AS-8: Тестирование с Mockk и Server Driven UI](https://www.androidstory.dev/2020/07/as-8-mockk-server-driven-ui.html)
