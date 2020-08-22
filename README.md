@@ -62,7 +62,7 @@
 # Habr
 - [Безопасное и автоматическое обновление ReadMe](https://habr.com/ru/sandbox/143506/)
 
-# Android Story podcast :microphone: 
+# [Android Story podcast][website] :microphone: 
 <!-- BLOG-POST-LIST:START -->
 - [AS-11: Clean architecture](https://www.androidstory.dev/2020/08/as-11-clean-architecture.html)
 - [AS-10: Пишем хороший код с SOLID, DRY, KISS, YAGNI и CQS](https://www.androidstory.dev/2020/08/as-10-solid-dry-kiss-yagni-cqs.html)
