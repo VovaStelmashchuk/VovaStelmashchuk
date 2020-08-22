@@ -23,7 +23,7 @@
   - Room
 - Frameworks
   - Android SDK
-  - Spring Boot, Koin (only in pet project)
+  - Spring Boot, Ktor (only in pet project)
 - Data base:
   - ObjectBox
   - SQLite
