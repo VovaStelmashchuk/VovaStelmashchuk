@@ -59,6 +59,9 @@
 - [Instagram][instagram]
 - [Linkedin][linkedin]
 
+# Habr
+- [Безопасное и автоматическое обновление ReadMe](https://habr.com/ru/sandbox/143506/)
+
 # Android Story podcast :microphone: 
 <!-- BLOG-POST-LIST:START -->
 - [AS-11: Clean architecture](https://www.androidstory.dev/2020/08/as-11-clean-architecture.html)
