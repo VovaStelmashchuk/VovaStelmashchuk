@@ -74,7 +74,6 @@
 - [AS-4: Ktor на стороне Android?! И как приодеть ваш Dagger2 под 2020й год.](https://www.androidstory.dev/2020/06/as-4.html)
 - [AS-3 Android 11 и новый способ работы с GraphQL в Kotlin](https://www.androidstory.dev/2020/06/android-11-graphql-kotlin.html)
 - [AS-2: Duolingo уже на Kotlin, мы на Android Studio 4, а вы где?](https://www.androidstory.dev/2020/06/as-2-duolingo-kotlin-android-studio-4.html)
-- [AS-1: Snapchat переписали, а диалоги в VK работают интересно](https://www.androidstory.dev/2020/05/as-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 # Medium :memo: 
