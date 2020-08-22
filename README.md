@@ -9,6 +9,36 @@
 - Author of the following:
   - [Moxy][moxy] Android X module
   - [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
+- Tools:
+  - I using intellij idea with several plugins (I think it is not matter for you)
+  - Detekt
+  - Charles
+  - Mockoon
+- Libraries:
+  - RxJava 2
+  - Dagger 2
+  - OkHttp
+  - Retrofit
+  - CIO
+  - Room
+- Frameworks
+  - Android SDK
+  - Spring Boot, Koin (only in pet project)
+- Data base:
+  - ObjectBox
+  - SQLite
+  - Mongo (only in pet project)
+- My experience:
+  - 5 Year in Android development
+  - Work with gradle (Flavors, Build types, small plugins)
+  - All new projects starts with unit tests and CI. (I think tests doesn't make sense without CI)
+  - I have experience of refactor big project witout stoping developin the business requests.
+  - Manage small android team (less 4 developer)
+  - Code review
+  - Done 3 project in outsourse companies
+  - Work with Jira Admin and Jira API
+  - Docker (only in pet project)
+8. I am working in product company now.
 - Contributor in the following project:
   - [Detekt](https://github.com/detekt/detekt)
   - [Idea openscad](https://github.com/ncsaba/idea-openscad)
