@@ -64,6 +64,7 @@
 
 # [Android Story podcast][website] :microphone: 
 <!-- BLOG-POST-LIST:START -->
+- [AS-14: Ещё немного про тестирование со Strikt и Preferences/Proto Datastore vs BinaryPrefs.](https://www.androidstory.dev/2020/09/as-14-strikt-preferencesproto-datastore.html)
 - [AS-13: Немного о тестировании.](https://www.androidstory.dev/2020/09/as-13.html)
 - [AS-12: Kotlin 1.4 уже в релизе!](https://www.androidstory.dev/2020/08/as-12-kotlin-14.html)
 - [AS-11: Clean architecture](https://www.androidstory.dev/2020/08/as-11-clean-architecture.html)
@@ -73,7 +74,6 @@
 - [AS-7: GoodReadMeApp by Vova, Inheritance vs Composition на уровне Activity, Jetpack Compose Preview](https://www.androidstory.dev/2020/07/as-7-goodreadmeapp-by-vova-inheritance.html)
 - [AS-6: Этот дивный новый Kotlin и чудной SQLite](https://www.androidstory.dev/2020/07/as-6-kotlin-sqlite.html)
 - [AS-5: Design Patterns в Android и App Startup](https://www.androidstory.dev/2020/07/AS-5.html)
-- [AS-4: Ktor на стороне Android?! И как приодеть ваш Dagger2 под 2020й год.](https://www.androidstory.dev/2020/06/as-4.html)
 <!-- BLOG-POST-LIST:END -->
 
 # Medium :memo: 
