@@ -38,7 +38,6 @@
   - Done 3 project in outsourse companies
   - Work with Jira Admin and Jira API
   - Docker (only in pet project)
-8. I am working in product company now.
 - Contributor in the following project:
   - [Detekt](https://github.com/detekt/detekt)
   - [Idea openscad](https://github.com/ncsaba/idea-openscad)
@@ -52,7 +51,10 @@
   - 3D modeling
   - Creating a stuff from wood by myself
   - Visiting the music festivals
-
+### Career
+- [Parimatch Tech](https://www.linkedin.com/company/parimatch-tech/mycompany/) (07.2019 - present)
+- [MobiDev](https://www.linkedin.com/company/mobidev/) (01.2017 - 06.2019)
+- [Yukon Software Ukraine](https://www.linkedin.com/company/yukon-software-ukraine/) (09.2015 - 12.2016)
 ### Connect with me:
 - Email: vovochkastelmashchuk@gmail.com
 - [Twitter][twitter]
