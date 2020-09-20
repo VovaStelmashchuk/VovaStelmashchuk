@@ -1,6 +1,9 @@
 ### Hi there, I'm Vova
-
-## I'm a Android Developer, Podcaster and write article time to time.
+### Social media
+- [Twitter][twitter]
+- [Instagram][instagram]
+- [Linkedin][linkedin]
+### I'm a Android Developer, Podcaster and write article time to time.
 - I'm currentry working on :
   - [Android Story podcast][website] 
   - [GoodReadMeBot][goodreadMe]
@@ -57,14 +60,11 @@
 - [Yukon Software Ukraine](https://www.linkedin.com/company/yukon-software-ukraine/) (09.2015 - 12.2016)
 ### Connect with me:
 - Email: vovochkastelmashchuk@gmail.com
-- [Twitter][twitter]
-- [Instagram][instagram]
-- [Linkedin][linkedin]
 
-# Habr
+### Habr
 - [Безопасное и автоматическое обновление ReadMe](https://habr.com/ru/sandbox/143506/)
 
-# [Android Story podcast][website] :microphone: 
+### [Android Story podcast][website] :microphone: 
 <!-- BLOG-POST-LIST:START -->
 - [AS-14: Ещё немного про тестирование со Strikt и Preferences/Proto Datastore vs BinaryPrefs.](https://www.androidstory.dev/2020/09/as-14-strikt-preferencesproto-datastore.html)
 - [AS-13: Немного о тестировании.](https://www.androidstory.dev/2020/09/as-13.html)
@@ -78,7 +78,7 @@
 - [AS-5: Design Patterns в Android и App Startup](https://www.androidstory.dev/2020/07/AS-5.html)
 <!-- BLOG-POST-LIST:END -->
 
-# Medium :memo: 
+### Medium :memo: 
 <!-- MEDIUM:START -->
 - [Don’t think about rotation of the screen. Moxy fix the problem.](https://itnext.io/dont-think-about-rotation-of-the-screen-moxy-fix-the-problem-e861d52a0d12?source=rss-cec3e8e0d4be------2)
 - [3 simple reasons why you need to use Firefox](https://medium.com/@vovochkastelmashchuk/3-simple-reasons-why-you-need-to-use-firefox-2c5f97d0dc82?source=rss-cec3e8e0d4be------2)
