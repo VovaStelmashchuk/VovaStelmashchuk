@@ -65,18 +65,8 @@
 - [Безопасное и автоматическое обновление ReadMe](https://habr.com/ru/sandbox/143506/)
 
 ### [Android Story podcast][website] :microphone: 
-<!-- BLOG-POST-LIST:START -->
-- [AS-14: Ещё немного про тестирование со Strikt и Preferences/Proto Datastore vs BinaryPrefs.](https://www.androidstory.dev/2020/09/as-14-strikt-preferencesproto-datastore.html)
-- [AS-13: Немного о тестировании.](https://www.androidstory.dev/2020/09/as-13.html)
-- [AS-12: Kotlin 1.4 уже в релизе!](https://www.androidstory.dev/2020/08/as-12-kotlin-14.html)
-- [AS-11: Clean architecture](https://www.androidstory.dev/2020/08/as-11-clean-architecture.html)
-- [AS-10: Пишем хороший код с SOLID, DRY, KISS, YAGNI и CQS](https://www.androidstory.dev/2020/08/as-10-solid-dry-kiss-yagni-cqs.html)
-- [AS-9: Навигация в Discord и мультимодульность в Android приложениях](https://www.androidstory.dev/2020/08/as-9-discord-android.html)
-- [AS-8: Тестирование с Mockk и Server Driven UI](https://www.androidstory.dev/2020/07/as-8-mockk-server-driven-ui.html)
-- [AS-7: GoodReadMeApp by Vova, Inheritance vs Composition на уровне Activity, Jetpack Compose Preview](https://www.androidstory.dev/2020/07/as-7-goodreadmeapp-by-vova-inheritance.html)
-- [AS-6: Этот дивный новый Kotlin и чудной SQLite](https://www.androidstory.dev/2020/07/as-6-kotlin-sqlite.html)
-- [AS-5: Design Patterns в Android и App Startup](https://www.androidstory.dev/2020/07/AS-5.html)
-<!-- BLOG-POST-LIST:END -->
+<!-- PODCAST:START -->
+<!-- PODCAST:END -->
 
 ### Medium :memo: 
 <!-- MEDIUM:START -->
