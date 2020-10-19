@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 10
-          feed_list: "https://fdf63dd4eb8fdf808d7baebac4ebf323.blogspot.com/feeds/posts/default?alt=rss"
+          feed_list: "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xMDg2MTkxLnJzcw"
