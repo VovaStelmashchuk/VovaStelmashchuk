@@ -12,6 +12,7 @@
 - Author of the following:
   - [Moxy][moxy] Android X module
   - [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
+  - [MergeKt](https://github.com/parimatch-tech/mergekt)
 - Tools:
   - I using intellij idea with several plugins (I think it is not matter for you)
   - Detekt
