@@ -84,6 +84,6 @@
 [moxy]: https://github.com/moxy-community/Moxy
 [goodreadMe]: https://github.com/GoodReadMe
 [website]: https://androidstory.buzzsprout.com/
-[twitter]: https://twitter.com/jordan29041997
+[twitter]: https://twitter.com/smallstells
 [instagram]: https://instagram.com/volodymyrstelmaschuk
 [linkedin]: https://www.linkedin.com/in/volodymyr-stelmashchuk-2631b9118/
