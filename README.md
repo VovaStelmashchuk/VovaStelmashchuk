@@ -13,6 +13,15 @@
   - [Moxy][moxy] Android X module
   - [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
   - [MergeKt](https://github.com/parimatch-tech/mergekt)
+- Contributor in the following project:
+  - [Detekt](https://github.com/detekt/detekt)
+  - [Idea openscad](https://github.com/ncsaba/idea-openscad)
+  - [ADB idea](https://github.com/pbreault/adb-idea)
+- Fake contributor(just write the docs or other small changes):
+  - [mockk-guidebook](https://github.com/NotWoods/mockk-guidebook)
+  - [RxJava](https://github.com/ReactiveX/RxJava)
+  - [Binaryprefs](https://github.com/yandextaxitech/binaryprefs)
+  - [DIO](https://github.com/flutterchina/dio)
 - Tools:
   - I using intellij idea with several plugins (I think it is not matter for you)
   - Detekt
@@ -42,15 +51,6 @@
   - Done 3 project in outsourse companies
   - Work with Jira Admin and Jira API
   - Docker (only in pet project)
-- Contributor in the following project:
-  - [Detekt](https://github.com/detekt/detekt)
-  - [Idea openscad](https://github.com/ncsaba/idea-openscad)
-  - [ADB idea](https://github.com/pbreault/adb-idea)
-- Fake contributor(just write the docs or other small changes):
-  - [mockk-guidebook](https://github.com/NotWoods/mockk-guidebook)
-  - [RxJava](https://github.com/ReactiveX/RxJava)
-  - [Binaryprefs](https://github.com/yandextaxitech/binaryprefs)
-  - [DIO](https://github.com/flutterchina/dio)
 - Not developer life:
   - 3D modeling
   - Creating a stuff from wood by myself
@@ -64,10 +64,6 @@
 
 ### Habr
 - [Безопасное и автоматическое обновление ReadMe](https://habr.com/ru/sandbox/143506/)
-
-### [Android Story podcast][website] :microphone: 
-<!-- PODCAST:START -->
-<!-- PODCAST:END -->
 
 ### Medium :memo: 
 <!-- MEDIUM:START -->
