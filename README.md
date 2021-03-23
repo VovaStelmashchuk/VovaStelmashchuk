@@ -7,8 +7,7 @@
 - I'm currentry working on :
   - [Android Story podcast][website] 
   - [GoodReadMeBot][goodreadMe]
-  - [Android sdk for Remark42](https://github.com/VovaStelmashchuk/RemarkAndroidSdk)
-  - Learning jetbrains source codes
+  - [RadioT app](https://github.com/VovaStelmashchuk/RadiotApp)
 - Author of the following:
   - [Moxy][moxy] Android X module
   - [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
@@ -23,7 +22,7 @@
   - [Binaryprefs](https://github.com/yandextaxitech/binaryprefs)
   - [DIO](https://github.com/flutterchina/dio)
 - Tools:
-  - I using intellij idea with several plugins (I think it is not matter for you)
+  - intellij idea with several plugins
   - Detekt
   - Charles
   - Mockoon
