@@ -9,7 +9,7 @@
   - [GoodReadMeBot][goodreadMe]
   - [RadioT app](https://github.com/VovaStelmashchuk/RadiotApp)
 - Author of the following:
-  - [Moxy][moxy] Android X module
+  - [Moxy][moxy] Android X module and Moxy 2.0
   - [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
   - [MergeKt](https://github.com/parimatch-tech/mergekt)
 - Contributor in the following project:
