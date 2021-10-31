@@ -1,11 +1,10 @@
 ### Hi there, I'm Vova
 ### Social media
 - [Twitter][twitter]
-- [Instagram][instagram]
 - [Linkedin][linkedin]
 ### I'm a Android Developer, Podcaster and write article time to time.
 - I'm currentry working on :
-  - [Android Story podcast][website] 
+  - [Android Story podcast][website]
   - [GoodReadMeBot][goodreadMe]
   - [RadioT app](https://github.com/VovaStelmashchuk/RadiotApp)
 - Author of the following:
@@ -41,7 +40,7 @@
   - SQLite
   - Mongo (only in pet project)
 - My experience:
-  - 5 Year in Android development
+  - 6 Year in Android development
   - Work with gradle (Flavors, Build types, small plugins)
   - All new projects starts with unit tests and CI. (I think tests doesn't make sense without CI)
   - I have experience of refactor big project witout stoping developin the business requests.
@@ -80,5 +79,4 @@
 [goodreadMe]: https://github.com/GoodReadMe
 [website]: https://androidstory.buzzsprout.com/
 [twitter]: https://twitter.com/smallstells
-[instagram]: https://instagram.com/volodymyrstelmaschuk
 [linkedin]: https://www.linkedin.com/in/volodymyr-stelmashchuk-2631b9118/
