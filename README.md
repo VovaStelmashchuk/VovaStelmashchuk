@@ -2,6 +2,8 @@
 ### Social media
 - [Twitter][twitter]
 - [Linkedin][linkedin]
+- [Stackoverflow](https://stackoverflow.com/users/7341528/vova-stelmashchuk?tab=profile)
+
 ### I'm a Android Developer, Podcaster and write article time to time.
 - I'm currentry working on :
   - [Android Story podcast][website]
