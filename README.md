@@ -5,9 +5,8 @@
 - [Stackoverflow](https://stackoverflow.com/users/7341528/vova-stelmashchuk?tab=profile)
 
 ### I'm a Android Developer, Podcaster and write article time to time.
-- I'm currentry working on :
+- Currentry working on:
   - [Android Story podcast][website]
-  - [GoodReadMeBot][goodreadMe]
   - [RadioT app](https://github.com/VovaStelmashchuk/RadiotApp)
 - Author of the following:
   - [Moxy][moxy] Android X module and Moxy 2.0
@@ -22,39 +21,18 @@
   - [RxJava](https://github.com/ReactiveX/RxJava)
   - [Binaryprefs](https://github.com/yandextaxitech/binaryprefs)
   - [DIO](https://github.com/flutterchina/dio)
-- Tools:
-  - intellij idea with several plugins
-  - Detekt
-  - Charles
-  - Mockoon
-- Libraries:
-  - RxJava 2
-  - Dagger 2
-  - OkHttp
-  - Retrofit
-  - CIO
-  - Room
-- Frameworks
-  - Android SDK
-  - Spring Boot, Ktor (only in pet project)
-- Data base:
-  - ObjectBox
-  - SQLite
-  - Mongo (only in pet project)
 - My experience:
   - 6 Year in Android development
   - Work with gradle (Flavors, Build types, small plugins)
   - All new projects starts with unit tests and CI. (I think tests doesn't make sense without CI)
-  - I have experience of refactor big project witout stoping developin the business requests.
-  - Manage small android team (less 4 developer)
+  - Refactor a big project and develop business requests paraller.
+  - Manage native(android+ios) team
   - Code review
-  - Done 3 project in outsourse companies
   - Work with Jira Admin and Jira API
   - Docker (only in pet project)
 - Not developer life:
   - 3D modeling
-  - Creating a stuff from wood by myself
-  - Visiting the music festivals
+  - Music festivals
 ### Career
 - [Parimatch Tech](https://www.linkedin.com/company/parimatch-tech/mycompany/) (07.2019 - present)
 - [MobiDev](https://www.linkedin.com/company/mobidev/) (01.2017 - 06.2019)
