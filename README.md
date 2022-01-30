@@ -43,7 +43,10 @@
 ### Habr
 - [Безопасное и автоматическое обновление ReadMe](https://habr.com/ru/sandbox/143506/)
 
-### Medium :memo: 
+### Dou
+- [Рецепт адекватної співбесіди або Викиньте у смітник свої запитання](https://dou.ua/forums/topic/36261/)
+
+### Medium :memo:
 <!-- MEDIUM:START -->
 - [Don’t think about rotation of the screen. Moxy fix the problem.](https://itnext.io/dont-think-about-rotation-of-the-screen-moxy-fix-the-problem-e861d52a0d12?source=rss-cec3e8e0d4be------2)
 - [3 simple reasons why you need to use Firefox](https://medium.com/@vovochkastelmashchuk/3-simple-reasons-why-you-need-to-use-firefox-2c5f97d0dc82?source=rss-cec3e8e0d4be------2)
