@@ -40,11 +40,11 @@
 ### Connect with me:
 - Email: vovochkastelmashchuk@gmail.com
 
-### Habr
-- [Безопасное и автоматическое обновление ReadMe](https://habr.com/ru/sandbox/143506/)
-
 ### Dou
 - [Рецепт адекватної співбесіди або Викиньте у смітник свої запитання](https://dou.ua/forums/topic/36261/)
+
+### Habr
+- [Безопасное и автоматическое обновление ReadMe](https://habr.com/ru/sandbox/143506/)
 
 ### Medium :memo:
 <!-- MEDIUM:START -->
