@@ -16,6 +16,7 @@
   - [Detekt](https://github.com/detekt/detekt)
   - [Idea openscad](https://github.com/ncsaba/idea-openscad)
   - [ADB idea](https://github.com/pbreault/adb-idea)
+  - [GrowthBook android/ios SDK](https://github.com/growthbook/growthbook-kotlin)
 - Fake contributor(just write the docs or other small changes):
   - [mockk-guidebook](https://github.com/NotWoods/mockk-guidebook)
   - [RxJava](https://github.com/ReactiveX/RxJava)
