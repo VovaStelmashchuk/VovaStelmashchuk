@@ -1,5 +1,6 @@
 ### Hi there, I'm Vova
 ### Social media
+- [Patreon](https://www.patreon.com/vovastelmashchuk)
 - [Twitter][twitter]
 - [Linkedin][linkedin]
 - [Stackoverflow](https://stackoverflow.com/users/7341528/vova-stelmashchuk?tab=profile)
@@ -7,9 +8,9 @@
 ### I'm a Android Developer, Podcaster and write article time to time.
 - Currentry working on:
   - [Android Story podcast][website]
-  - [RadioT app](https://github.com/VovaStelmashchuk/RadiotApp)
 - Author of the following:
   - [Moxy][moxy] Android X module and Moxy 2.0
+  - [RadioT app](https://github.com/VovaStelmashchuk/RadiotApp)
   - [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
   - [MergeKt](https://github.com/parimatch-tech/mergekt)
 - Contributor in the following project:
