@@ -9,8 +9,6 @@
 - Currentry working on:
   - [Android Story podcast][website]
 - Author of the following:
-  - [Moxy][moxy] Android X module and Moxy 2.0
-  - [RadioT app](https://github.com/VovaStelmashchuk/RadiotApp)
   - [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
   - [MergeKt](https://github.com/parimatch-tech/mergekt)
 - Contributor in the following project:
@@ -57,6 +55,10 @@
 - [I need to be funny all the time.](https://medium.com/@vovochkastelmashchuk/i-need-to-be-funny-all-the-time-9c01ab00b2fe?source=rss-cec3e8e0d4be------2)
 - [How to set up a personal VPN tunnel in 5 min](https://medium.com/@vovochkastelmashchuk/how-set-up-personal-vpn-tunnel-for-5-min-f8f05b80be2a?source=rss-cec3e8e0d4be------2)
 <!-- MEDIUM:END -->
+
+### Previous activity
+ - Android X module and Moxy 2.0. The library was development by russian developers, and now supporting by russian developers. Provide help the moxy-community organization was a my mistake. I am not a part of moxy community at the moment because I don't want to erase barrier between developers from Ukraine and Russion. 
+ - RadioT android app. Project is frozzen.
 
 <br />
 <br />
