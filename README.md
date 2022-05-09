@@ -20,7 +20,6 @@
   - [compose-markdown](https://github.com/jeziellago/compose-markdown) 
   - [mockk-guidebook](https://github.com/NotWoods/mockk-guidebook)
   - [RxJava](https://github.com/ReactiveX/RxJava)
-  - [Binaryprefs](https://github.com/yandextaxitech/binaryprefs)
   - [DIO](https://github.com/flutterchina/dio)
 - My experience:
   - 6 Year in Android development
@@ -58,6 +57,7 @@
 
 ### Previous activity
  - Android X module and Moxy 2.0. The library was development by russian developers, and now supporting by russian developers. Provide help the moxy-community organization was a my mistake. I am not a part of moxy community at the moment because I don't want to erase barrier between developers from Ukraine and Russion. 
+ - Binaryprefs. I was provide small contribution into the library. It was a mistake too. 
  - RadioT android app. Project is frozzen.
 
 <br />
