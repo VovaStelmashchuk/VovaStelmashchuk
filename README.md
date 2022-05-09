@@ -56,12 +56,11 @@
  - Android X module and Moxy 2.0. The library was development by russian developers, and now supporting by russian developers. Provide help the moxy-community organization was a my mistake. I am not a part of moxy community at the moment because I don't want to erase barrier between developers from Ukraine and Russion. 
  - Binaryprefs. I was provide small contribution into the library. It was a mistake too. 
  - RadioT android app. Project is frozzen.
- - [Безопасное и автоматическое обновление ReadMe](https://habr.com/ru/sandbox/143506/). Раніше я не думав що в dou настільки класна тусовка, коли я написав статтю про співбесіди я переконався в тому що майбутіні технічні статті теж буду писати на dou.
+ - 'Безопасное и автоматическое обновление ReadMe'(Habr). Раніше я не думав що в dou настільки класна тусовка, коли я написав статтю про співбесіди я переконався в тому що майбутіні технічні статті теж буду писати на dou.
 
 <br />
 <br />
 
-[moxy]: https://github.com/moxy-community/Moxy
 [goodreadMe]: https://github.com/GoodReadMe
 [website]: https://androidstory.buzzsprout.com/
 [twitter]: https://twitter.com/smallstells
