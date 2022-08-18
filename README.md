@@ -1,14 +1,21 @@
 ### Hi there, I'm Vova
+
 ### Social media
-- [Patreon](https://www.patreon.com/vovastelmashchuk)
 - [Twitter][twitter]
 - [Linkedin][linkedin]
 - [Stackoverflow](https://stackoverflow.com/users/7341528/vova-stelmashchuk?tab=profile)
 
+## Podcasts
+- [Android story](https://shows.acast.com/62efce09bcb3d10013e2cc9b)
+- [Tech cucumber](https://anchor.fm/techcucumber)
+
+### Support my podcast
+- [Patreon](https://www.patreon.com/vovastelmashchuk)
+
+## Projects:
+- Ukraine cocktails library [Site](http://mixdrinks.org/) [Source of product](https://github.com/MixDrinks)
+
 ### I'm a Android Developer, Podcaster and write article time to time.
-- Currentry working on:
-  - [Android Story podcast][website]
-  - Ukraine cocktails library [Site](http://mixdrinks.org/) [Source](https://github.com/MixDrinks)
 - Author of the following:
   - [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
   - [MergeKt](https://github.com/parimatch-tech/mergekt)
@@ -22,15 +29,6 @@
   - [mockk-guidebook](https://github.com/NotWoods/mockk-guidebook)
   - [RxJava](https://github.com/ReactiveX/RxJava)
   - [DIO](https://github.com/flutterchina/dio)
-- My experience:
-  - 6 Year in Android development
-  - Work with gradle (Flavors, Build types, small plugins)
-  - All new projects starts with unit tests and CI. (I think tests doesn't make sense without CI)
-  - Refactor a big project and develop business requests paraller.
-  - Manage native(android+ios) team
-  - Code review
-  - Work with Jira Admin and Jira API
-  - Docker (only in pet project)
 - Not developer life:
   - 3D modeling
   - Music festivals
@@ -38,8 +36,6 @@
 - [Parimatch Tech](https://www.linkedin.com/company/parimatch-tech/mycompany/) (07.2019 - present)
 - [MobiDev](https://www.linkedin.com/company/mobidev/) (01.2017 - 06.2019)
 - [Yukon Software Ukraine](https://www.linkedin.com/company/yukon-software-ukraine/) (09.2015 - 12.2016)
-### Connect with me:
-- Email: vovochkastelmashchuk@gmail.com
 
 ### Dou
 - [Рецепт адекватної співбесіди або Викиньте у смітник свої запитання](https://dou.ua/forums/topic/36261/)
@@ -55,14 +51,13 @@
 
 ### Previous activity
  - Android X module and Moxy 2.0. The library was development by russian developers, and now supporting by russian developers. Provide help the moxy-community organization was a my mistake. I am not a part of moxy community at the moment because I don't want to erase barrier between developers from Ukraine and Russion. 
- - Binaryprefs. I was provide small contribution into the library. It was a mistake too. 
+ - Binaryprefs. I was provide small contribution into the library. It was a mistake too.
  - RadioT android app. Project is frozzen.
- - 'Безопасное и автоматическое обновление ReadMe'(Habr). Раніше я не думав що в dou настільки класна тусовка, коли я написав статтю про співбесіди я переконався в тому що майбутіні технічні статті теж буду писати на dou.
+ - 'Безопасное и автоматическое обновление ReadMe'(Habr). Раніше я не знав що в dou настільки класна тусовка, коли я написав статтю про співбесіди я переконався в тому що майбутіні технічні статті теж буду писати на dou.
 
 <br />
 <br />
 
 [goodreadMe]: https://github.com/GoodReadMe
-[website]: https://androidstory.buzzsprout.com/
 [twitter]: https://twitter.com/smallstells
 [linkedin]: https://www.linkedin.com/in/volodymyr-stelmashchuk-2631b9118/
