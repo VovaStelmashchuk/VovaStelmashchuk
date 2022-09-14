@@ -10,7 +10,7 @@
 - [Tech cucumber](https://anchor.fm/techcucumber)
 
 ### Support my podcast
-- [Patreon](https://www.patreon.com/vovastelmashchuk)
+- [Patreon](https://www.patreon.com/androidstory)
 
 ## Projects:
 - Ukraine cocktails library [Site](http://mixdrinks.org/) [Source of product](https://github.com/MixDrinks)
