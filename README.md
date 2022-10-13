@@ -1,21 +1,18 @@
-### Hi there, I'm Vova
+My projects:
+
+- [Android story podcast](https://shows.acast.com/62efce09bcb3d10013e2cc9b)
+- [Tech cucumber podcast](https://anchor.fm/techcucumber)
+- Ukraine cocktails library [Mixdrinks](http://mixdrinks.org/)
+
+[Support me on patreon](https://www.patreon.com/androidstory)
 
 ### Social media
 - [Twitter][twitter]
 - [Linkedin][linkedin]
 - [Stackoverflow](https://stackoverflow.com/users/7341528/vova-stelmashchuk?tab=profile)
 
-## Podcasts
-- [Android story](https://shows.acast.com/62efce09bcb3d10013e2cc9b)
-- [Tech cucumber](https://anchor.fm/techcucumber)
+### Open source projects
 
-### Support my podcast
-- [Patreon](https://www.patreon.com/androidstory)
-
-## Projects:
-- Ukraine cocktails library [Site](http://mixdrinks.org/) [Source of product](https://github.com/MixDrinks)
-
-### I'm a Android Developer, Podcaster and write article time to time.
 - Author of the following:
   - [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
   - [MergeKt](https://github.com/parimatch-tech/mergekt)
@@ -29,13 +26,6 @@
   - [mockk-guidebook](https://github.com/NotWoods/mockk-guidebook)
   - [RxJava](https://github.com/ReactiveX/RxJava)
   - [DIO](https://github.com/flutterchina/dio)
-- Not developer life:
-  - 3D modeling
-  - Music festivals
-### Career
-- [Parimatch Tech](https://www.linkedin.com/company/parimatch-tech/mycompany/) (07.2019 - present)
-- [MobiDev](https://www.linkedin.com/company/mobidev/) (01.2017 - 06.2019)
-- [Yukon Software Ukraine](https://www.linkedin.com/company/yukon-software-ukraine/) (09.2015 - 12.2016)
 
 ### Dou
 - [Рецепт адекватної співбесіди або Викиньте у смітник свої запитання](https://dou.ua/forums/topic/36261/)
@@ -49,14 +39,10 @@
 - [How to set up a personal VPN tunnel in 5 min](https://medium.com/@vovochkastelmashchuk/how-set-up-personal-vpn-tunnel-for-5-min-f8f05b80be2a?source=rss-cec3e8e0d4be------2)
 <!-- MEDIUM:END -->
 
-### Previous activity
- - Android X module and Moxy 2.0. The library was development by russian developers, and now supporting by russian developers. Provide help the moxy-community organization was a my mistake. I am not a part of moxy community at the moment because I don't want to erase barrier between developers from Ukraine and Russion. 
- - Binaryprefs. I was provide small contribution into the library. It was a mistake too.
- - RadioT android app. Project is frozzen.
- - 'Безопасное и автоматическое обновление ReadMe'(Habr). Раніше я не знав що в dou настільки класна тусовка, коли я написав статтю про співбесіди я переконався в тому що майбутіні технічні статті теж буду писати на dou.
-
-<br />
-<br />
+### Career
+- [Parimatch Tech](https://www.linkedin.com/company/parimatch-tech/mycompany/) (07.2019 - present)
+- [MobiDev](https://www.linkedin.com/company/mobidev/) (01.2017 - 06.2019)
+- [Yukon Software Ukraine](https://www.linkedin.com/company/yukon-software-ukraine/) (09.2015 - 12.2016)
 
 [goodreadMe]: https://github.com/GoodReadMe
 [twitter]: https://twitter.com/smallstells
