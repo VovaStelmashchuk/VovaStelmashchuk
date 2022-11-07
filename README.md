@@ -1,4 +1,4 @@
-My projects:
+Projects:
 
 - [Android story podcast](https://shows.acast.com/62efce09bcb3d10013e2cc9b)
 - [Tech cucumber podcast](https://anchor.fm/techcucumber)
