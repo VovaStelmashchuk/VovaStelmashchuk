@@ -14,6 +14,7 @@ Projects:
 ### Open source projects
 
 - Author of the following:
+  - [Mixdrinks](http://mixdrinks.org/) 
   - [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
   - [MergeKt](https://github.com/parimatch-tech/mergekt)
 - Contributor in the following project:
