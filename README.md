@@ -19,7 +19,7 @@ Projects:
   - [MergeKt](https://github.com/parimatch-tech/mergekt)
 - Contributor in the following project:
   - [Detekt](https://github.com/detekt/detekt)
-  - [Idea openscad](https://github.com/ncsaba/idea-openscad)
+  - [Idea openscad](https://github.com/ldenisey/idea-openscad)
   - [ADB idea](https://github.com/pbreault/adb-idea)
   - [GrowthBook android/ios SDK](https://github.com/growthbook/growthbook-kotlin)
 - Fake contributor(just write the docs or other small changes):
