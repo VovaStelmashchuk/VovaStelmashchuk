@@ -41,7 +41,7 @@ Projects:
 <!-- MEDIUM:END -->
 
 ### Career
-- [Parimatch Tech](https://www.linkedin.com/company/parimatch-tech/mycompany/) (07.2019 - present)
+- [Parimatch Tech](https://www.linkedin.com/company/parimatch-tech/mycompany/) (07.2019 - 02.2023)
 - [MobiDev](https://www.linkedin.com/company/mobidev/) (01.2017 - 06.2019)
 - [Yukon Software Ukraine](https://www.linkedin.com/company/yukon-software-ukraine/) (09.2015 - 12.2016)
 
