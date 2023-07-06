@@ -1,4 +1,8 @@
-Projects:
+# Hi everyone 👋
+
+My name is Vova (he/him) and if there is one thing that wakes me up in the morning... this is open source development!
+
+## Projects:
 
 - [Android story podcast](https://shows.acast.com/62efce09bcb3d10013e2cc9b)
 - [Tech cucumber podcast](https://anchor.fm/techcucumber)
