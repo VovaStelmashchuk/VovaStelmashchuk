@@ -11,6 +11,7 @@ My name is Vova (he/him) and if there is one thing that wakes me up in the morni
 [Support me on patreon](https://www.patreon.com/androidstory)
 
 ### Social media
+- [YouTube](https://www.youtube.com/channel/UC4yIia8VAd1qQWDVobBxH1A)
 - [Twitter][twitter]
 - [Linkedin][linkedin]
 - [Stackoverflow](https://stackoverflow.com/users/7341528/vova-stelmashchuk?tab=profile)
