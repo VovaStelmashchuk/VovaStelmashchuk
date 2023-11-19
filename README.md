@@ -1,22 +1,9 @@
 # Hi everyone 👋
 
-My name is Vova (he/him) and if there is one thing that wakes me up in the morning... this is open source development!
+My name is Vova (he/him) and if there is one thing that wakes me up in the morning... this is open-source development!
 
-## Projects:
-
-- [Android story podcast](https://shows.acast.com/62efce09bcb3d10013e2cc9b)
-- [Tech cucumber podcast](https://anchor.fm/techcucumber)
-- Ukraine cocktails library [Mixdrinks](http://mixdrinks.org/)
-
-[Support me on patreon](https://www.patreon.com/androidstory)
-
-### Social media
-- [YouTube](https://www.youtube.com/channel/UC4yIia8VAd1qQWDVobBxH1A)
-- [Twitter][twitter]
-- [Linkedin][linkedin]
-- [Stackoverflow](https://stackoverflow.com/users/7341528/vova-stelmashchuk?tab=profile)
-
-### Open source projects
+### Open source
+- Currently trying to develop the best access system for hackerspaces [Prismo](https://github.com/hacklabkyiv/prismo)
 
 - Author of the following:
   - [Mixdrinks](http://mixdrinks.org/) 
@@ -33,6 +20,20 @@ My name is Vova (he/him) and if there is one thing that wakes me up in the morni
   - [RxJava](https://github.com/ReactiveX/RxJava)
   - [DIO](https://github.com/flutterchina/dio)
 
+## My Projects:
+
+- [Android story podcast](https://shows.acast.com/62efce09bcb3d10013e2cc9b)
+- [Tech cucumber podcast](https://anchor.fm/techcucumber)
+- Ukraine cocktails library [Mixdrinks](http://mixdrinks.org/)
+
+[You can support my activity here](https://www.patreon.com/androidstory)
+
+## My Social media
+- [YouTube](https://www.youtube.com/channel/UC4yIia8VAd1qQWDVobBxH1A)
+- [Twitter][twitter]
+- [Linkedin][linkedin]
+- [Stackoverflow](https://stackoverflow.com/users/7341528/vova-stelmashchuk?tab=profile)
+
 ### Dou
 - [Рецепт адекватної співбесіди або Викиньте у смітник свої запитання](https://dou.ua/forums/topic/36261/)
 
@@ -45,11 +46,11 @@ My name is Vova (he/him) and if there is one thing that wakes me up in the morni
 - [How to set up a personal VPN tunnel in 5 min](https://medium.com/@vovochkastelmashchuk/how-set-up-personal-vpn-tunnel-for-5-min-f8f05b80be2a?source=rss-cec3e8e0d4be------2)
 <!-- MEDIUM:END -->
 
-### Career
-- [Parimatch Tech](https://www.linkedin.com/company/parimatch-tech/mycompany/) (07.2019 - 02.2023)
-- [MobiDev](https://www.linkedin.com/company/mobidev/) (01.2017 - 06.2019)
-- [Yukon Software Ukraine](https://www.linkedin.com/company/yukon-software-ukraine/) (09.2015 - 12.2016)
+## Career
+- AppFlame (08.2023 - present)
+- Parimatch Tech (07.2019 - 02.2023)
+- MobiDev (01.2017 - 06.2019)
+- Yukon Software Ukraine (09.2015 - 12.2016)
 
-[goodreadMe]: https://github.com/GoodReadMe
 [twitter]: https://twitter.com/smallstells
 [linkedin]: https://www.linkedin.com/in/volodymyr-stelmashchuk-2631b9118/
