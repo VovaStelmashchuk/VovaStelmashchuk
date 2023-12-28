@@ -4,7 +4,7 @@ My name is Vova (he/him) and if there is one thing that wakes me up in the morni
 
 ### Open source
 Currently trying to develop the best access system for hackerspaces [Prismo](https://github.com/hacklabkyiv/prismo)
-Also I develop the [SelfPod](github.com/vovastelmashchuk/selfpod) the app for auto creating video from the podcast audio and cover.
+Also I develop the [SelfPod](https://github.com/vovastelmashchuk/selfpod) the app for auto creating video from the podcast audio and cover.
 
 - Author of the following:
   - [Mixdrinks](http://mixdrinks.org/) 
