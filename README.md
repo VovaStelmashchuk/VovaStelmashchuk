@@ -1,16 +1,18 @@
 # Hi everyone 👋
 
-My name is Vova (he/him) and if there is one thing that wakes me up in the morning... this is open-source development!
+My name is Vova (he/him), and if there is one thing that wakes me up in the morning, this is open-source development!
 
 ### Open source
 Currently trying to develop the best access system for hackerspaces [Prismo](https://github.com/hacklabkyiv/prismo)
 Also I develop the [SelfPod](https://github.com/vovastelmashchuk/selfpod) the app for auto creating video from the podcast audio and cover.
 
 - Author of the following:
-  - [Mixdrinks](http://mixdrinks.org/) 
+  - [Mixdrinks](http://mixdrinks.org/)
+  - [SelfPod](https://github.com/vovastelmashchuk/selfpod)
+  - [Nest2d](https://github.com/VovaStelmashchuk/nest2D)
   - [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
   - [MergeKt](https://github.com/parimatch-tech/mergekt)
-- Contributor in the following project:
+- Contributor to the following project:
   - [Detekt](https://github.com/detekt/detekt)
   - [Idea openscad](https://github.com/ldenisey/idea-openscad)
   - [ADB idea](https://github.com/pbreault/adb-idea)
