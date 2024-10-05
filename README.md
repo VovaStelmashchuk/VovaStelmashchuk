@@ -3,37 +3,31 @@
 My name is Vova (he/him), and if there is one thing that wakes me up in the morning, this is open-source development!
 
 ### Open source
-Currently trying to develop the best access system for hackerspaces [Prismo](https://github.com/hacklabkyiv/prismo)
-Also I develop the [SelfPod](https://github.com/vovastelmashchuk/selfpod) the app for auto creating video from the podcast audio and cover.
+Currently develop the following project:
+- [Prismo](https://github.com/hacklabkyiv/prismo) - the best access system for hackerspaces 
+- [Mixdrinks](http://mixdrinks.org/) - Ukraine cocktails library 
+- [YourPod](https://github.com/VovaStelmashchuk/yourpod) - open source platform for podcast managment and podcast hosting
+- [Nest2d](https://nest2d.online) - Online service for nesting irregular shapes for lazer cutting, (irregular shape packing problem)
 
-- Author of the following:
-  - [Mixdrinks](http://mixdrinks.org/)
-  - [SelfPod](https://github.com/vovastelmashchuk/selfpod)
-  - [Nest2d](https://github.com/VovaStelmashchuk/nest2D)
-  - [CodeGenKtx](https://github.com/parimatchtech/codegen-ktx)
-  - [MergeKt](https://github.com/parimatch-tech/mergekt)
-- Contributor to the following project:
-  - [Detekt](https://github.com/detekt/detekt)
-  - [Idea openscad](https://github.com/ldenisey/idea-openscad)
-  - [ADB idea](https://github.com/pbreault/adb-idea)
-  - [GrowthBook android/ios SDK](https://github.com/growthbook/growthbook-kotlin)
-- Fake contributor(just write the docs or other small changes):
-  - [compose-markdown](https://github.com/jeziellago/compose-markdown) 
-  - [mockk-guidebook](https://github.com/NotWoods/mockk-guidebook)
-  - [RxJava](https://github.com/ReactiveX/RxJava)
-  - [DIO](https://github.com/flutterchina/dio)
+Contributor to the following project:
+- [Detekt](https://github.com/detekt/detekt)
+- [Idea openscad](https://github.com/ldenisey/idea-openscad)
+- [ADB idea](https://github.com/pbreault/adb-idea)
+- [GrowthBook android/ios SDK](https://github.com/growthbook/growthbook-kotlin)
 
-## My Projects:
+Fake contributor(just write the docs or other small changes):
+- [compose-markdown](https://github.com/jeziellago/compose-markdown) 
+- [mockk-guidebook](https://github.com/NotWoods/mockk-guidebook)
+- [RxJava](https://github.com/ReactiveX/RxJava)
+- [DIO](https://github.com/flutterchina/dio)
 
-- [Android story podcast](https://shows.acast.com/62efce09bcb3d10013e2cc9b)
+## No code project
+
+- [Android story podcast](https://androidstory.dev/), [You can support my activity here](https://www.patreon.com/androidstory)
 - [Tech cucumber podcast](https://anchor.fm/techcucumber)
-- Ukraine cocktails library [Mixdrinks](http://mixdrinks.org/)
-
-[You can support my activity here](https://www.patreon.com/androidstory)
 
 ## My Social media
 - [YouTube](https://www.youtube.com/channel/UC4yIia8VAd1qQWDVobBxH1A)
-- [Twitter][twitter]
 - [Linkedin][linkedin]
 - [Stackoverflow](https://stackoverflow.com/users/7341528/vova-stelmashchuk?tab=profile)
 
@@ -55,5 +49,4 @@ Also I develop the [SelfPod](https://github.com/vovastelmashchuk/selfpod) the ap
 - MobiDev (01.2017 - 06.2019)
 - Yukon Software Ukraine (09.2015 - 12.2016)
 
-[twitter]: https://twitter.com/smallstells
 [linkedin]: https://www.linkedin.com/in/volodymyr-stelmashchuk-2631b9118/
