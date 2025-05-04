@@ -6,7 +6,7 @@ My name is Vova (he/him), and if there is one thing that wakes me up in the morn
 Currently develop the following project:
 - [Prismo](https://github.com/hacklabkyiv/prismo) - the best access system for hackerspaces 
 - [Mixdrinks](http://mixdrinks.org/) - Ukraine cocktails library 
-- [YourPod](https://github.com/VovaStelmashchuk/yourpod) - open source platform for podcast managment and podcast hosting
+- [YPod](https://github.com/VovaStelmashchuk/ypod) - open source platform for podcast managment and podcast hosting
 - [Nest2d](https://nest2d.online) - Online service for nesting irregular shapes for lazer cutting, (irregular shape packing problem)
 
 Contributor to the following project:
